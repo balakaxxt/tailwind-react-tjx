@@ -2,7 +2,7 @@
 
 dependencias
 
-node 16.0,1
+node 16.0,1 ou atualizador
 
 
 
